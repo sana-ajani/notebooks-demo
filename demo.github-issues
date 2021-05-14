@@ -1,0 +1,17 @@
+[
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "$vscode=repo:microsoft/vscode"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "$repo=repo:microsoft/vscode repo:microsoft/vscode-docs repo:microsoft/vscode-website "
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "$repo is:open assignee:@me"
+  }
+]
